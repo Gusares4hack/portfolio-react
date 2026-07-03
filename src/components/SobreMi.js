@@ -16,7 +16,7 @@ function SobreMi() {
 IT-Systemadministrator spezialisiert auf sichere IT-Systeme und die Verwaltung vernetzter Infrastrukturen.
                         </div>
                         <div className="parrafo">
-Ich bin staatlich geprüfter Obertechniker für vernetzte IT-Systeme und verfüge über fortgeschrittene Kenntnisse (B1/B2) in Deutsch und Englisch.
+Ich bin staatlich geprüfter Obertechniker für vernetzte IT-Systeme und verfüge über fortgeschrittene Kenntnisse (B2/C1) in Deutsch und Englisch.
                         </div>
                         <div className="parrafo">
 Aktuell bin ich 22 Jahre alt, wohne in Ehningen und besitze einen Führerschein der Klasse B.
